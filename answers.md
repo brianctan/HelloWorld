@@ -1,0 +1,5 @@
+1. What is Git?
+Git is a version control system for code. Git keeps a series of snapshots about the files. If someone does changes and pushes it to Github, you will see the new version. But I can still go back to the old versions, and see a list of changes. Since the snapshots are saved on your computer magically, git lets you see different versions conveniently.
+
+2. What is Github?
+It's a hub, for git! It's built on Git. You can think of it as a dropbox, where you can upload your files to. It's a hub for your repositories. But, it follows your saves of snapshots and previous versions. The 2nd purpose of github is that it's a social networking site, when you go into your profile. You will see your name and your username. You'll see where you have worked on and what you have contributed. As part of your resume, they will check your Github and check what type of projects you have worked on. You can explore other people's work too. It connects coders from all over the world. People can comment on each other's code and work to improve each other's work. Basically, it's an online repository and a social network in one. You can use github to put papers on it. 
